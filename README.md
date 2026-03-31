@@ -1,4 +1,4 @@
-# Cotizado-de-Viajes
+# Cotizador-de-Viajes
 
 Pequeño formulario web para realizar una **cotización de viajes por México**. El usuario captura sus datos (nombre, destino, transporte, acompañantes, días/noches) y el sistema calcula un **total estimado** con base en costos fijos.
 
